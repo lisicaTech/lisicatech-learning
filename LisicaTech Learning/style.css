@@ -1,0 +1,9 @@
+.head-in{
+    background-image: url("image/head.gif");
+    background-repeat: no-repeat;
+    height: 400px;
+    color: aliceblue;
+}
+.head-in h1{
+    padding-top: 10%;
+}
